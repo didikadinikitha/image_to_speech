@@ -29,8 +29,12 @@ image-to-speech-gemini/
 
 ## Requirements
 -streamlit
+
 -google-generativeai
+
 -pillow
+
 -gtts
+
 -python-dotenv
 
