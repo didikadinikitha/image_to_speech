@@ -20,11 +20,17 @@ This project converts images into speech using Google's Gemini multimodal model.
 
 ## Project Structure
 image-to-speech-gemini/
+
 │
+
 ├── app.py
+
 ├── config.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .env
 
 ## Requirements
